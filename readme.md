@@ -1,12 +1,12 @@
 <img src="image\logo.png">
 
 <div align="center" style="margin: 20px 0; display: flex; gap: 12px; justify-content: center; flex-wrap: nowrap;">
-  <a href="README-zh.md" style="text-decoration: none; display: inline-block;">
+  <a href="readme-zh.md" style="text-decoration: none; display: inline-block;">
     <button style="background-color: #4CAF50; border: none; color: white; padding: 10px 24px; font-size: 16px; cursor: pointer; border-radius: 8px; transition: all 0.3s; white-space: nowrap;">
       中文
     </button>
   </a>
-  <a href="README.md" style="text-decoration: none; display: inline-block;">
+  <a href="readme.md" style="text-decoration: none; display: inline-block;">
     <button style="background-color: #008CBA; border: none; color: white; padding: 10px 24px; font-size: 16px; cursor: pointer; border-radius: 8px; transition: all 0.3s; white-space: nowrap;">
       English
     </button>
